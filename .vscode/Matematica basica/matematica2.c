@@ -10,7 +10,7 @@ printf("resultado: %d\n", resultado);
 resultado += 20;
 printf ("resultado: %d\n", resultado);
 
-//resultado = resultado - 5
+//resultado = resultado - 10
 resultado -= n1;
 printf("resultado: %d\n", resultado);
 
